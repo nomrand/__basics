@@ -1,0 +1,26 @@
+{
+  "name": "XXXXAPP_NAMEXXXX",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomrand/XXXXAPP_NAMEXXXX.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomrand/XXXXAPP_NAMEXXXX/issues"
+  },
+  "homepage": "https://github.com/nomrand/XXXXAPP_NAMEXXXX#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
